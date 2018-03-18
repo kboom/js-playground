@@ -1,10 +1,10 @@
 {
   "name": "@kboom/exclusive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@kboom/commons": "^1.0.2"
+    "@kboom/commons": "^1.0.3"
   }
 }
