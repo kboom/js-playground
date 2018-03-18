@@ -1,4 +1,8 @@
 {
+	"scripts": {
+		"bootstrap": "lerna boostrap",
+		"link": "lerna exec -- yarn link"
+	},
 	"devDependencies": {
 		"lerna": "^2.9.0"
 	}
